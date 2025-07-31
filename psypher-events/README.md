@@ -13,7 +13,7 @@ A Flask web application that displays events based on user tier levels (Free, Si
 ## Setup Instructions
 
 1. **Prerequisites**:
-   - Python 3.8+
+   - Python 
    - MySQL server
    - pip
 
